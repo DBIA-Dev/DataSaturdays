@@ -5,21 +5,24 @@ hide-toplogo: true
 hide-join-room-section: true
 open-registration-new-tab: true
 
-description: 'With the success of the Data Platform  (SQLSaturday) event on 01st FEB 2020 and to continue the community spirit <b>the Edinburgh Data Platform user group</b> would like to convene another major event on 03rd June 2023.  
+description: <p style="font-size:20px; "><b>'halò!''Fáilte gu Auld Reekie <br>(Welcome to Edinburgh).</b><br></p>
+<img src="https://images.unsplash.com/photo-1557335525-380f0bc8be34?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1111&q=80"alt=Yves Alarie (Unsplash)"/><br>
+<p style="font-size:20px;">With the success of the Data Platform  (SQLSaturday) event in the year 2020 (01/02/2020) and to continue the community spirit <b>the Edinburgh Data Platform user group</b> is converning another major event on <b>03rd June 2023</b>.  
 <br>
-<b>Data Saturday Edinburgh</b> is a free-to-attend <u>in-person</u> event (one day) for IT professionals who are keen on data platform technologies. This is a community-led event, that offers useful educational & career-supported content across the data platform, cloud computing, analytics, architecture and much more.
-<br>
+
+<b>Data Saturday Edinburgh</b> is a free-to-attend <u>in-person</u> event (one day) for IT professionals who are keen on data platform technologies. <br>This is a community-led event, that offers useful educational & career-supported content across the data platform, cloud computing, analytics, architecture and much more.
+<br></p>
 Thanks
 <br>
 Satya & Tom'
-registrationurl: 
+registrationurl: https://www.eventbrite.com/e/data-saturday-edinburgh-ds30-tickets-621947420477
 
 #join:
 #  description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
 #  rooms:
 
-scheduleurl: 
-venuemap: 
+scheduleurl: <<To be followed>>
+venuemap: https://www.google.com/maps?ll=55.939705,-3.169605&z=13&t=m&hl=en-US&gl=US&mapclient=apiv3&cid=2858612425985882582
 sponsors:
 
 speakerlisturl: https://sessionize.com/datasaturday-edinburgh/
@@ -28,13 +31,13 @@ volunteerrequesturl: mailto:consulting@dbia.uk
 organizers:
   - name: Edinburgh Data Platform user group
     twitter: https://twitter.com/sqlscot)
-    email: 
+    email: consulting@dbia.uk
   - name: Satya Jayanty
     twitter:  https://twitter.com/data_geek_
-    email: 
+    email: consulting@dbia.uk
   - name: Thomas Sykes
     twitter:  https://twitter.com/sqltomato
-    email: 
+    email: consulting@dbia.uk
 
 codeofconduct: "<p style=\"text-align:left;\">
       All attendees, speakers, sponsors and volunteers at our conference are required to adhere with the following code of conduct. 
